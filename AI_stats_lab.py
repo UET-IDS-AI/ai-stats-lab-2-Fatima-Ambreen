@@ -146,5 +146,3 @@ def uniform_histogram_analysis(a_values,
     return results
 
 
-if __name__ == "__main__":
-    print("Implement all required functions.")
