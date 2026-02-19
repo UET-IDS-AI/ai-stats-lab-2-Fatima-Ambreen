@@ -7,6 +7,7 @@ Instructions:
 - Do NOT print inside functions.
 - You may use: math, numpy, matplotlib.
 """
+
 import math
 import numpy as np
 import matplotlib.pyplot as plt
